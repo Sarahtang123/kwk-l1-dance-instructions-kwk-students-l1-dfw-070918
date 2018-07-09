@@ -24,6 +24,6 @@ def bob_the_reins
 end
 
 def lasso 
-  puts "yee"
+  puts "Start"
 end
   
