@@ -16,6 +16,7 @@ def base_footwork
 end
 
 def bob_the_reins
+  puts "Lift"
   puts "Cross"
   puts "Hold"
   puts "bob it out"
