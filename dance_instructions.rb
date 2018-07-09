@@ -5,6 +5,6 @@ def starting_stance
 end
 
 def skip_step
-  puts "left"
+  puts "skip a step (lower, bounce, briefly)"
 end
   
